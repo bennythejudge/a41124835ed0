@@ -1,5 +1,7 @@
 # Set up for "Get Started with NLP in Python"
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/a41124835ed0.svg)](https://www.guardrails.io)
+
 This repo includes the notebooks, source data, and other materials for:
 [Get Started with Natural Language Processing in Python](https://synecdoche.liber118.com/natural-language-processing-in-python-832b0a99791b).
 
